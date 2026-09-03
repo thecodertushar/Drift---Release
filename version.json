@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2",
-  "download_url": "https://github.com/thecodertushar/Drift---Release/releases/download/v1.0.2/drift.apk",
-  "release_notes": "Drift v1.0.2 is now available. This update includes improvements to the in-app update system and fixes the Android network connection issue in the release version."
+  "version": "1.0.3",
+  "download_url": "https://github.com/thecodertushar/Drift---Release/releases/download/v1.0.3/drift.apk",
+  "release_notes": "A new update is here with improvements to the Drift experience, along with minor improvements and bug fixes for better stability."
 }
